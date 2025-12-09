@@ -10,6 +10,11 @@ const nextConfig = {
         hostname: '**',
       },
     ],
+    localPatterns: [
+      {
+        pathname: '/**',
+      },
+    ],
   },
   sassOptions: {
     compiler: "modern",
