@@ -7,7 +7,7 @@ const content = {
   links: [ // optional array
     // title, description and image are generated based on the link (if available) and not provided explicitly
     {
-      title: "Once UI", // optional
+      title: "Portfolio", // optional
       description: "Fully customizable design system for Next.js and Figma.", // optional
       url: "https://once-ui.com", // required if link object exists
       favicon: false
