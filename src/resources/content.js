@@ -1,9 +1,9 @@
 // Profile data - all fields are optional
 const content = {
-  name: "Selene Yu", // optional
-  avatar: "/images/avatar.jpg", // optional
-  cover: "/images/cover.jpg", // optional
-  bio: "Design Engineer + Creative", // optional
+  name: "Moh Rizky Sinaga", // optional
+  avatar: "/images/rizky-formal.png", // optional
+  cover: "/images/cover-bg.JPG", // optional
+  bio: "IT Project Officer", // optional
   links: [ // optional array
     // title, description and image are generated based on the link (if available) and not provided explicitly
     {

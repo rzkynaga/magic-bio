@@ -106,10 +106,10 @@ const effects = {
 
 // default metadata
 const meta = {
-  title: "Selene Yu - Bio",
+  title: "Mohammad Rizky Sinaga - Bio",
   path: "/",
   description:
-    "My name is Selene Yu, I'm a Design Engineer and Creative.",
+    "My name is Mohammad Rizky Sinaga, I'm a IT Project Officer.",
 };
 
 // default open graph data
@@ -126,17 +126,17 @@ const social = [
   {
     name: 'GitHub',
     icon: 'github',
-    link: 'https://github.com/selene-yu',
+    link: 'https://github.com/rzkynaga',
   },
   {
     name: 'LinkedIn',
     icon: 'linkedin',
-    link: 'https://www.linkedin.com/in/selene-yu',
+    link: 'https://www.linkedin.com/in/rzkynaga',
   },
   {
     name: 'Threads',
     icon: 'threads',
-    link: 'https://www.threads.com/@selene.yu',
+    link: 'https://www.threads.com/@kizvn',
   },
 ]
 
